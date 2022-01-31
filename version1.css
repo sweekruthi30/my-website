@@ -1,0 +1,25 @@
+ul{
+    list-style-type:none;
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+a{
+    text-decoration:none;
+    padding-right:25px;
+}
+
+
+.navbar{
+    height:100px;
+    width:100%;
+    display:flex;
+    justify-content:space-between;
+}
+
+body{
+    background-color :#6ba3d8;
+}
+
+
